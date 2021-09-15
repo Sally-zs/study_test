@@ -1,4 +1,3 @@
-#在远程修改文件呵呵哈哈哈  本地要pull
-print ("测试")
-#test1xiugai并提交
-print("test1xiugai并提交")
+print("新建new_test文件")
+#测试哈哈哈哈哈哈
+print("在tes2ddddddddddddg中修改并提交")
